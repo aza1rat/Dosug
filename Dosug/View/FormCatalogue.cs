@@ -62,7 +62,7 @@ namespace Dosug
                 Helper.ModelDB.Database.Connection.Close();
                 MessageBox.Show("Успешное отключение от БД", "Отключение от БД", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
-            catch
+            catch (Exception exception)
             {
                 MessageBox.Show("Не удалось отключиться от БД", "Отключение от БД", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }

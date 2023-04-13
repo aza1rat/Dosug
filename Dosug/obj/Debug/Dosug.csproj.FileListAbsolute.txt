@@ -1,0 +1,17 @@
+C:\Users\Asus\Downloads\Задание №1. Простое-20230413\Dosug\Dosug\bin\Debug\Dosug.exe.config
+C:\Users\Asus\Downloads\Задание №1. Простое-20230413\Dosug\Dosug\bin\Debug\Dosug.exe
+C:\Users\Asus\Downloads\Задание №1. Простое-20230413\Dosug\Dosug\bin\Debug\Dosug.pdb
+C:\Users\Asus\Downloads\Задание №1. Простое-20230413\Dosug\Dosug\obj\Debug\Dosug.csprojAssemblyReference.cache
+C:\Users\Asus\Downloads\Задание №1. Простое-20230413\Dosug\Dosug\obj\Debug\Dosug.Properties.Resources.resources
+C:\Users\Asus\Downloads\Задание №1. Простое-20230413\Dosug\Dosug\obj\Debug\Dosug.FormCatalogue.resources
+C:\Users\Asus\Downloads\Задание №1. Простое-20230413\Dosug\Dosug\obj\Debug\Dosug.A.FormTemplate.resources
+C:\Users\Asus\Downloads\Задание №1. Простое-20230413\Dosug\Dosug\obj\Debug\Dosug.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\Задание №1. Простое-20230413\Dosug\Dosug\obj\Debug\Dosug.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\Задание №1. Простое-20230413\Dosug\Dosug\obj\Debug\Dosug.exe
+C:\Users\Asus\Downloads\Задание №1. Простое-20230413\Dosug\Dosug\obj\Debug\Dosug.pdb
+C:\Users\Asus\Downloads\Задание №1. Простое-20230413\Dosug\Dosug\bin\Debug\EntityFramework.dll
+C:\Users\Asus\Downloads\Задание №1. Простое-20230413\Dosug\Dosug\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\Downloads\Задание №1. Простое-20230413\Dosug\Dosug\bin\Debug\EntityFramework.xml
+C:\Users\Asus\Downloads\Задание №1. Простое-20230413\Dosug\Dosug\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\Downloads\Задание №1. Простое-20230413\Dosug\Dosug\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Asus\Downloads\Задание №1. Простое-20230413\Dosug\Dosug\obj\Debug\Dosug.csproj.CopyComplete

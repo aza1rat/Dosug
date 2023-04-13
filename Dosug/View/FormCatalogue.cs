@@ -52,7 +52,7 @@ namespace Dosug
 
         private void LoadEvents()
         {
-            events = Helper.ModelDB.Event.ToList();
+            events = Helper.ModelDB.Event.ToList(); 
         }
 
         private void FormCatalogue_FormClosing(object sender, FormClosingEventArgs e)
